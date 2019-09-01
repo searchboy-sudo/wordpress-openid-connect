@@ -29,8 +29,8 @@ The best OpenID Connect plugin for WordPress
 - 'Implicit Grant' - this is not active yet. The purpose is to allow for implicit grant. This requires some further development.
 
 ## Enable Configuration
-- Once you have saved the configuration, you will see it below the form field as  table row. The configuration is not enable until you click the 'Enable' butoon for that row.
-- You can save multiple configurations which will appear as a table below the form fields, but only one configuration can be enable at any point in time.
+- Once you have saved the configuration, you will see it below the form fields as  table row. The configuration is not enabled until you click the 'Enable' butoon for that row.
+- You can save multiple configurations which will appear as a table below the form fields, but only one configuration can be enabled at any point in time.
 
 
 ## Bounty Notice
