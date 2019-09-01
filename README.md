@@ -1,6 +1,10 @@
 # wordpress-openid-connect
 The best OpenID Connect plugin for WordPress
 
+## Credit & current contributors
+- [@bolailumoka](https://github.com/bolailumoka) Thank you for the initial commit! 
+- The FusionAuth team
+
 ## Bounty Notice
 This library is currently in development it is not yet available for public consumption. If you wish to contribute, we are offering bounties for high quality code.
 
